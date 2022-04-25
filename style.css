@@ -32,6 +32,9 @@ body {
 	font-weight: 600;
 	text-transform: uppercase;
 }
+.logo label {
+	color: #ccc;
+}
 .img img {
 	width: 47%;
 }
